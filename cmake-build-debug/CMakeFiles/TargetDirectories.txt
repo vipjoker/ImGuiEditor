@@ -1,0 +1,5 @@
+/Users/oleh/Documents/projects/CocosProjects/ClionCocos/cmake-build-debug/CMakeFiles/MyGame_CORE_PRE_BUILD.dir
+/Users/oleh/Documents/projects/CocosProjects/ClionCocos/cmake-build-debug/CMakeFiles/MyGame_PRE_BUILD.dir
+/Users/oleh/Documents/projects/CocosProjects/ClionCocos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oleh/Documents/projects/CocosProjects/ClionCocos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oleh/Documents/projects/CocosProjects/ClionCocos/cmake-build-debug/CMakeFiles/MyGame.dir

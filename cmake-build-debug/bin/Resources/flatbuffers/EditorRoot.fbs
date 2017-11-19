@@ -1,0 +1,41 @@
+namespace Editor;
+
+enum NodeType:byte{
+    BUTTON,SPRITE,LAYOUT
+}
+table EditorRoot
+{
+    textures:[string];
+    nodes:[NodeTree];
+}
+
+root_type EditorRoot;
+
+table NodeTree
+{
+    position:Vector;
+    children:[NodeTree];
+    type:NodeType;
+}
+
+
+
+struct AnchorPoint
+{
+    scaleX:float;
+    scaleY:float;
+}
+
+struct Color
+{
+    a:ubyte;
+    r:ubyte;
+    g:ubyte;
+    b:ubyte;
+}
+
+struct Vector
+{    
+    x:float;
+    y:float;
+}
