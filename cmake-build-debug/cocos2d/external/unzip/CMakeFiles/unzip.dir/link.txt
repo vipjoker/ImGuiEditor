@@ -1,2 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../../lib/libunzip.a  CMakeFiles/unzip.dir/ioapi.cpp.o CMakeFiles/unzip.dir/unzip.cpp.o CMakeFiles/unzip.dir/ioapi_mem.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../../lib/libunzip.a
